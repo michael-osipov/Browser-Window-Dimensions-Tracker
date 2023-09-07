@@ -1,5 +1,4 @@
-# TBWD
-# Browser Window Dimensions Tracker
+# Browser Window Dimensions Tracker (TBWD)
 
 ## Overview
 
@@ -44,7 +43,7 @@ You can easily customize the appearance of the tracker by modifying the script's
 This script is open-source and available under the MIT License. Feel free to use, modify, and distribute it as needed for your projects.
 
 ## Credits
-Developed by Michael Osipov
+Developed by Michael Osipov  
 Contact: michael.osipov@gmail.com
 
 ## Contributions
