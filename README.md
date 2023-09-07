@@ -25,13 +25,13 @@ Here's an example of how to use the script in your HTML file:
 <!DOCTYPE html>
 <html>
 <head>
-<!-- Your content goes here -->
-</head>
-<body>
-    <!-- Your content goes here -->
 
     <!-- Include the script -->
     <script src="window-dimensions-tracker.js"></script>
+
+</head>
+<body>
+    <!-- Your content goes here -->
 
     <!-- The tracker container will be automatically added to the body -->
 </body>
