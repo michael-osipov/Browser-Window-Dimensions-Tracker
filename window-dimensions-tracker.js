@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const width = window.innerWidth;
         const height = window.innerHeight;
         const bodyHeight = document.body.offsetHeight;
-        number.textContent = `${width} x ${height}, Body Height: ${bodyHeight}px`;
+        number.textContent = `${width}px x ${height}px, Body Height: ${bodyHeight}px`;
     }
 
 
