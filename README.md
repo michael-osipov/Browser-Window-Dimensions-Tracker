@@ -1,4 +1,4 @@
-# Browser Window Dimensions Tracker (TBWD)
+# Browser Window Dimensions Tracker
 
 ## Overview
 
