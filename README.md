@@ -11,6 +11,13 @@ This JavaScript script, "Browser Window Dimensions Tracker," allows you to creat
 - Fixed position display for easy monitoring.
 - Responsive design with adjustable styles.
 
+## Display
+
+Both dark and light mode available.
+
+![Dark](./darkMode.jpg)
+![Light](./lightMode.jpg)
+
 ## Usage
 
 1. Include the script in your HTML file.
